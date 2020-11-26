@@ -1,6 +1,3 @@
-Thanks for downloading this template!
+# ORU Team Portfolio
 
-Template Name: Regna
-Template URL: https://bootstrapmade.com/regna-bootstrap-onepage-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+We are a team of talented developers of website developement and web automation
